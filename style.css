@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+    background: green;
+    margin: 0;
+    padding: 1em 0;
+}
+
+h1 {
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+    color: whitesmoke;
+
+}
+
+#map {
+    height: 965px;
+}
